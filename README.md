@@ -7,7 +7,7 @@ Vous avez une gaufre, dont le coin supérieur gauche est empoisonné (coordonée
 Quand on commence, la gaufre est un rectangle de taille **n**x**m**.  
 A tour de rôle, vous et votre adversaire allez manger une partie de la gaufre.  
 On mange une partie de la gaufre en donnant une coordonnée (**x**,**y**).  
-Quand ça arrive, le rectangle (**x**;**y);(**n-1**;**m-1**) est considéré comme mangé.
+Quand ça arrive, le rectangle (**x**;**y**);(**n-1**;**m-1**) est considéré comme mangé.
 
 # Détails techniques
 
