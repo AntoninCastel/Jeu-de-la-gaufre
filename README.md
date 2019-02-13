@@ -11,8 +11,8 @@ Quand ça arrive, le rectangle (**x**;**y**);(**n-1**;**m-1**) est considéré c
 
 # Détails techniques
 
-Créé en Java 8, et javaFX.
-Modèle Modèle-Vue-Controleur
+Créé en Java 8, et javaFX.  
+Modèle Modèle-Vue-Controleur  
 L'IA fonctionne avec un algorithme MinMax qui calcule tout les coups possibles jusqu'à la résolution du jeu (si c'est possible).  
 Si c'est possible, alors on prend une décision en fonction de la probabilité de gagner grâce à ce coup.  
 Si ce n'est pas possible,on calcule un nombre de coup à l'avance donné, et alors on juge la qualité d'un coup grâce à des heuristiques données, et on prend une décision en fonction de ces dernières.  
