@@ -1,7 +1,7 @@
 # La-gaufre
 Jeu de la gaufre fonctionnel
 
-# Description du jeu
+# Déscription du jeu
 Le jeu de la gaufre est un jeu simple.  Il se joue contre un seul adversaire.  
 Vous avez une gaufre, dont le coin supérieur gauche est empoisonné (coordonée **0**;**0**), le but du jeu est de ne pas devoir manger cette case empoisonnée.  
 Quand on commence, la gaufre est un rectangle de taille **n**x**m**.  
